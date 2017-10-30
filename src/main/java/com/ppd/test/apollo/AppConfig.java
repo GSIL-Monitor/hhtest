@@ -19,11 +19,8 @@ public class AppConfig {
 	}
 	
 	//dev branch test
-<<<<<<< HEAD
-	
 	//master add
-=======
-	//master1
->>>>>>> branch 'master' of https://github.com/mountains0513/hhtest.git
+
+
 }
 
