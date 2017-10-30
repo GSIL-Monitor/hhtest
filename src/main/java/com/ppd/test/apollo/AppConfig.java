@@ -12,9 +12,12 @@ public class AppConfig {
 	// public TestJavaConfigBean javaConfigBean() {
 	// return new TestJavaConfigBean();
 	// }
-	//aaaaaaaaaaaaa
+	
 	@Bean
 	public TestApolloAnnotationBean testApolloAnnotationBean() {
 		return new TestApolloAnnotationBean();
 	}
+	
+	//dev branch test
 }
+
