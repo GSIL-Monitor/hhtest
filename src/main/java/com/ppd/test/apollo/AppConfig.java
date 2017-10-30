@@ -21,5 +21,5 @@ public class AppConfig {
 	//dev branch test
 	
 	// dev brach1
-	// dev b1
+	// dev b2
 }
